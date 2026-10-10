@@ -12,3 +12,7 @@ def mul(a, b):
 
 def double(n):
     return n * 2
+
+
+def div(a, b):
+    return a / b
