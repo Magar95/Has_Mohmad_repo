@@ -19,3 +19,7 @@ def div(a, b):
 
 def exponent(a):
     return a ** 2
+
+
+def palindrome(text):
+    return text[::-1]
