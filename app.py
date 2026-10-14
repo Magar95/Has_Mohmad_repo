@@ -16,3 +16,6 @@ def double(n):
 
 def div(a, b):
     return a / b
+
+def exponent(a):
+    return a ** 2
